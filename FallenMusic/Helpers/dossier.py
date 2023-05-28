@@ -23,7 +23,7 @@
 from FallenMusic import BOT_NAME
 
 PM_START_TEXT = """
-⩹⌯⊷━‌‌‏𖧊 ⦓ SOURCE INTRNT ⦔ 𖧊━⊶⌯⩺
+⩹⌯⊷━‌‌‏𖧊 ⦓ ᶦⁿᵗʳⁿᵗ ⦔ 𖧊━⊶⌯⩺
 
 ⎊ اهــلا بـك » {0}
 
@@ -35,7 +35,7 @@ PM_START_TEXT = """
 
 ⎊ تـابع الازرار في الاسفل لـمعرفة الاوامر
 
-⩹⌯⊷━‌‌‏𖧊 ⦓ SOURCE INTRNT ⦔ 𖧊━⊶⌯⩺
+⩹⌯⊷━‌‌‏𖧊 ⦓ ᶦⁿᵗʳⁿᵗ ⦔ 𖧊━⊶⌯⩺
 """
 
 START_TEXT = """
