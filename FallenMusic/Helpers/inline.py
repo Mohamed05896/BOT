@@ -2,16 +2,12 @@ import math
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-import config
+استيراد  التكوين
 from AnonX.utils.formatters import time_to_seconds
 
 
-## بعد عمليات التحرير مع شريط المؤقت
-
-def stream_markup_timer(_, videoid, chat_id, played, dur):
-    played_sec = time_to_seconds(played)
-    duration_sec = time_to_seconds(dur)
-    percentage = (played_sec / duration_sec) * 100
+## بعد عمليات التحرير مع شريط
+played_sec / duration_sec) * 100
     anon = math.floor(percentage)
     if 0 < anon <= 10:
         bar = "★—————————"
